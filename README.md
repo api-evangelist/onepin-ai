@@ -1,4 +1,4 @@
-# onepin-ai
+# Onepin
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-onepin-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://onepin.ai/
+Onepin provides an AI voice production platform that transforms scripts into high‑quality, natural‑sounding speech across multiple languages. The service validates, cleans, and optimizes text before synthesis, offering over 50 TTS models, multilingual support, and tools for developers to integrate voice capabilities via REST APIs, SDKs, and a command‑line interface.
+
+**Areas:** Text-to-Speech · AI Voice · Speech Production
+
+## Onepin on APIs.io
+
+Everything profiled for Onepin is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/onepin-ai/](https://apis.io/providers/onepin-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Onepin API](https://apis.io/apis/onepin-ai/onepin-api/) — REST API for Onepin voice platform
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Onepin Agentic Access](https://apis.io/agentic-access/onepin-ai/onepin-ai-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Onepin API Rules](https://apis.io/rules/onepin-ai/onepin-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Onepin Authentication](https://apis.io/security/onepin-ai/onepin-ai-authentication/)
+- [Onepin Domain Security](https://apis.io/security/onepin-ai/onepin-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Onepin Plans Pricing](https://apis.io/plans/onepin-ai/onepin-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://onepin.ai/)
+- [Documentation](https://onepin.ai/docs)
+- [Getting started](https://onepin.ai/docs/get-started/quickstart)
+- [Pricing](https://onepin.ai/pricing)
+- [Sign up](https://app.onepin.ai/sign-up)
+- [Support](https://onepin.ai/faq)
+- [Blog](https://onepin.ai/blog)
+- [Terms of service](https://onepin.ai/terms)
+- [Privacy policy](https://onepin.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 39.0** — thin · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 59.1 |
+
+**Agent readiness 30.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/onepin-ai/](https://apis.io/providers/onepin-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Onepin: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/onepin-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
